@@ -1,0 +1,2 @@
+# R-Programming-for-Data-Science
+This project is an introduction to programming in R for Data Science. It is structured in 12 sections: (i) Data Structure in R; (ii) Importing and Exporting Data; (iii) Data Manipulation; (iv) Data Visualization; (v) Conditions, Loops and Function Creation; (vi) Statistical Analysis (Chi-Square and ANOVA); (vii) Linear regression; (viii) Regularized regression; (ix) ARIMA modeling; (x) Multivariate statistics (PCA and MCA); (xi) Supervised learning algorithms (classification); (xii) Unsupervised learning algorithms (clustering).
